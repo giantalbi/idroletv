@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://localhost:8409/iptv/xmltv.xml" x-tvg-url="http://localhost:8409/iptv/xmltv.xml"
+#EXTINF:0 tvg-id="1.etv" channel-id="2Ormp1E6OUmCtTZftcQ4tw" channel-number="1" CUID="2Ormp1E6OUmCtTZftcQ4tw" tvg-chno="1" tvg-name="iDrole TV" tvg-logo="http://localhost:8409/iptv/logos/1BCCED4B1B1C1A736D170ECE4C709C01.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="ac3", iDrole TV
+http://localhost:8409/iptv/channel/1.ts
